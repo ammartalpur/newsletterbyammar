@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input#email,input#firstN,input#lastN{
+    font-size: 2rem;
+}
+
+
+button#submit{
+    width: 25rem;
+    font-size: 2rem;
+}
+
