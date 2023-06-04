@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "This is newsletter signup using mailchamp api, express js server(node js as backend)",
   "main": "app.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "Ammar Talpur",
   "license": "MIT",
